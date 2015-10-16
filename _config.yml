@@ -1,6 +1,6 @@
 name: Rosie Mendoza Photography
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.5021198212634772
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.5338259523268789
