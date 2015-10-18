@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Rosie Mendoza Photography]]></title>
         <description><![CDATA[Rosie Mendoza Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rosie-mendoza-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 19:43:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 18 Oct 2015 22:07:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rosie-mendoza-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sometimes, all you need is 24M dollars]]></title>
+            <description><![CDATA[<article><h1>Sometimes, all you need is 24M dollars</h1><p>A year ago (exactly) I started shooting real estate. Truth is, Big Shout Out is in order, going to Glen Jakob P.A., who not only brought the idea to me but keeps on supporting me daily. Seriously, daily.  My skills have close to nothing to do with my accomplishments. It is all about strong willing, believing in myself and having kick ass friends who cheer me up along the way... 1 year and counting, Yay!  I might now be shooting 24M properties and such but still excites me to photograph 300K homes. Being a part of my clients success is my pride. ‪#‎teamwork‬</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b317e791-3b4c-4538-80a0-aebfb0811538.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rosie-mendoza-photography/sometimes-all-you-need-is-24m-dollars/index.html</link>
+            <guid isPermaLink="false">2a6b2853-3c72-4c8d-bea4-d6511ecb927b</guid>
+            <pubDate>Sun, 18 Oct 2015 22:07:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/rosie-mendoza-photography/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">c5d2f1fc-ad94-44eb-b41c-fe801ae4bcd5</guid>
-            <pubDate>Tue, 13 Oct 2015 19:42:50 GMT</pubDate>
+            <pubDate>Tue, 13 Oct 2015 19:58:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
