@@ -20,7 +20,7 @@ color:
     - '#081016'
     - '#00a4af'
   brandStrength: 1
-  lightness: null
-  saturation: null
-  rhythmicContrast: null
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
