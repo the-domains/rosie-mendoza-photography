@@ -21,7 +21,7 @@ color:
     - '#ff8e69'
     - '#081016'
     - '#00a4af'
-  brandStrength: null
+  brandStrength: 1
   lightness: null
   saturation: null
   rhythmicContrast: null
