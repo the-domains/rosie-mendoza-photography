@@ -1,7 +1,7 @@
 name: Rosie Mendoza Photography
 favicon: null
 layout_spectrum: 0.25365
-typography_spectrum: 0.99896
+typography_spectrum: 0.74843
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#22131b'
-    - '#b38b9a'
-    - '#7e6265'
-    - '#d6d5f1'
-    - '#7da837'
+    - '#70929e'
+    - '#008276'
+    - '#498b8d'
+    - '#277a79'
+    - '#a3b6c7'
   brandStrength: 0.125
   lightness: 0.5
   saturation: 0.5
